@@ -1,3 +1,5 @@
+TESTING OUT PAIRDROP
+
 <div align="center">
   <a href="https://github.com/schlagmichdoch/PairDrop">
     <img src="public/images/android-chrome-512x512.png" alt="Logo"  width="150" height="150">
